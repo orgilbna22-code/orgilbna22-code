@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Hi, I’m Orgil 👋**<br><br>A student developer from Mongolia, learning by building. I enjoy turning everyday problems into useful software with clean, thoughtful interfaces.<br><br>- 🛠️ **Projects:** UB Fire Risk · Python Music Player<br>- 🌱 **Learning:** Python, web development, and Git & GitHub<br>- 🤝 **Open to:** Student projects, collaboration, and constructive feedback<br>- 🎧 **Beyond coding:** Music, fitness, and improving my English
+**wassup**<br><br>A student developer from Mongolia, learning by building. I enjoy turning everyday problems into useful software with clean, thoughtful interfaces.<br><br>- 🛠️ **Projects:** UB Fire Risk · Python Music Player<br>- 🌱 **Learning:** Python, web development, and Git & GitHub<br>- 🤝 **Open to:** Student projects, collaboration, and constructive feedback<br>- 🎧 **Beyond coding:** Music, fitness, and improving my English
 
 
 
